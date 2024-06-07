@@ -5,7 +5,8 @@ body {
     min-height: 100vh;
     margin: 0;
 }
-fa-solid fa-anchor {
+//.fa solic .fa-anchor {//
+    .fa solid {
     font-size: 5rem;
     color: dodgerblue;
 }
