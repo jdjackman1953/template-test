@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     margin: 0;
 }
-i {
+fa-solid fa-anchor {
     font-size: 5rem;
     color: dodgerblue;
 }
